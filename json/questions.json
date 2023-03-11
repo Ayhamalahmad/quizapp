@@ -1,0 +1,138 @@
+[
+    {
+        "title": "What is the purpose of the <br> tag in HTML?",
+        "answer_1": "To Make Text Bold",
+        "answer_2": "To Make Text Italic",
+        "answer_3": "To Add Breakline",
+        "answer_4": "To Create Horizontal Line",
+        "right_answer": "To Add Breakline"
+    },
+    {
+        "title": "What is the purpose of the <a> tag in HTML?",
+        "answer_1": "To Make Text Bold",
+        "answer_2": "To Create Links",
+        "answer_3": "To Add Breakline",
+        "answer_4": "To Create Forms",
+        "right_answer": "To Create Links"
+    },
+    {
+        "title": "What is the purpose of the <img> tag in HTML?",
+        "answer_1": "To Display Text",
+        "answer_2": "To Create Links",
+        "answer_3": "To Add Images",
+        "answer_4": "To Create Forms",
+        "right_answer": "To Add Images"
+    },
+    {
+        "title": "What is the difference between the <ol> and <ul> tags in HTML?",
+        "answer_1": "<ol> creates an ordered list while <ul> creates an unordered list",
+        "answer_2": "<ol> creates an unordered list while <ul> creates an ordered list",
+        "answer_3": "<ol> is used for headings while <ul> is used for paragraphs",
+        "answer_4": "<ol> is used for paragraphs while <ul> is used for headings",
+        "right_answer": "<ol> creates an ordered list while <ul> creates an unordered list"
+    },
+    {
+        "title": "What is the purpose of the <head> tag in HTML?",
+        "answer_1": "To define the visible content of the web page",
+        "answer_2": "To define the structure of the web page",
+        "answer_3": "To define the metadata of the web page",
+        "answer_4": "To define the layout of the web page",
+        "right_answer": "To define the metadata of the web page"
+    },
+    {
+        "title": "What is the purpose of the <table> tag in HTML?",
+        "answer_1": "To add a video to a web page",
+        "answer_2": "To add a form to a web page",
+        "answer_3": "To add a table to a web page",
+        "answer_4": "To add a heading to a web page",
+        "right_answer": "To add a table to a web page"
+    },
+    {
+        "title": "What is the purpose of the alt attribute in the <img> tag in HTML?",
+        "answer_1": "To add a caption to the image",
+        "answer_2": "To define the alignment of the image",
+        "answer_3": "To provide a text description of the image",
+        "answer_4": "To define the width of the image",
+        "right_answer": "To provide a text description of the image"
+    },
+    {
+        "title": "What does HTML stand for?",
+        "answer_1": "Hyperlinks and Text Markup Language",
+        "answer_2": "Hypertext Markup Language",
+        "answer_3": "Home Tool Markup Language",
+        "answer_4": "Hyper Text Madeup Language",
+        "right_answer": "Hypertext Markup Language"
+        },
+        {
+        "title": "Which HTML attribute specifies an alternate text for an image?",
+        "answer_1": "src",
+        "answer_2": "href",
+        "answer_3": "alt",
+        "answer_4": "title",
+        "right_answer": "alt"
+        },
+        {
+        "title": "Which HTML element is used to specify a header for a document or section?",
+        "answer_1": "<head>",
+        "answer_2": "<nav>",
+        "answer_3": "<header>",
+        "answer_4": "<section>",
+        "right_answer": "<header>"
+        },
+        {
+        "title": "What is the correct HTML element for the largest heading?",
+        "answer_1": "<h1>",
+        "answer_2": "<heading>",
+        "answer_3": "<h6>",
+        "answer_4": "<large>",
+        "right_answer": "<h1>"
+        },
+        {
+        "title": "Which HTML element defines a clickable link?",
+        "answer_1": "<clickable>",
+        "answer_2": "<href>",
+        "answer_3": "<link>",
+        "answer_4": "<a>",
+        "right_answer": "<a>"
+        },
+        {
+        "title": "Which HTML element is used to display a video?",
+        "answer_1": "<media>",
+        "answer_2": "<video>",
+        "answer_3": "<movie>",
+        "answer_4": "<play>",
+        "right_answer": "<video>"
+        },
+        {
+        "title": "Which HTML attribute specifies the URL of the page the link goes to?",
+        "answer_1": "src",
+        "answer_2": "href",
+        "answer_3": "link",
+        "answer_4": "url",
+        "right_answer": "href"
+        },
+        {
+        "title": "Which HTML element is used to define important text?",
+        "answer_1": "<b>",
+        "answer_2": "<strong>",
+        "answer_3": "<i>",
+        "answer_4": "<em>",
+        "right_answer": "<strong>"
+        },
+        {
+        "title": "What is the correct HTML element for inserting a background image?",
+        "answer_1": "<img src='background.png'>",
+        "answer_2": "<img background='background.png'>",
+        "answer_3": "<background src='background.png'>",
+        "answer_4": "<body background='background.png'>",
+        "right_answer": "<body background='background.png'>"
+        },
+        {
+        "title": "Which HTML element defines an unordered list?",
+        "answer_1": "<ul>",
+        "answer_2": "<ol>",
+        "answer_3": "<li>",
+        "answer_4": "<list>",
+        "right_answer": "<ul>"
+        }
+]
