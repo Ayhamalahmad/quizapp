@@ -33,7 +33,7 @@ function getQuestions() {
       };
     }
   };
-  ajaxRe.open("GET", "/json/questions.json", true);
+  ajaxRe.open("GET", "json/questions.json", true);
   ajaxRe.send();
 }
 getQuestions();
